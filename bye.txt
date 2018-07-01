@@ -1,4 +1,6 @@
-print("byeeverybodyu")
-print("Good")
-print("GoodbyeDude")
-print("GoodbyeDog")
+<<<<<<< HEAD
+print("byeeverybodyu;")
+print("Good;")
+print("GoodbyeDude;")
+print("GoodbyeDog;")
+
