@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 print("helloWorld;")
 pring("HelloMamma;")
 pring("HelloMamma;")
 print("Bukashka;")
+print("helloMyDearFriend;")
+print("HelloDog;")
+
