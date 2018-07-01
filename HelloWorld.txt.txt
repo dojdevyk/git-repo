@@ -1,4 +1,4 @@
-print("helloWorld")
-pring("HelloMamma")
-pring("HelloMamma")
-print("Bukashka")
+print("helloWorld;")
+pring("HelloMamma;")
+pring("HelloMamma;")
+print("Bukashka;")
